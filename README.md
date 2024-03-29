@@ -1,2 +1,8 @@
-# Color-Picker-App
-ColorPicker, facilitates color selection for users within a React application. It employs the useState hook to manage the selected color state. Through an input element of type "color", users can dynamically choose a color, which updates both the displayed color and its representation.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
